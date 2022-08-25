@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "httpsrvr1",
+  "xtask",
+]
+
